@@ -6,8 +6,15 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Ferramentas online e gratuitas para simplificar seu dia a dia.">
-  <meta http-equiv="Content-Security-Policy" content="style-src 'self' 'unsafe-inline' https://www.gstatic.com;">
-  <meta name="google-site-verification" content="Ig6WUZhHKvpmH0w-lhZ2lTcKJzQLilEcXJNgIO-buNY">
+  <meta http-equiv="Content-Security-Policy" content="
+  default-src 'self';
+  style-src 'self' 'unsafe-inline' https://www.gstatic.com https://fonts.googleapis.com https://cdnjs.cloudflare.com;
+  style-src-elem 'self' https://www.gstatic.com https://fonts.googleapis.com https://cdnjs.cloudflare.com;
+  font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com;
+  script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com;
+  img-src 'self' data: https://www.google-analytics.com;
+">
+<meta name="google-site-verification" content="Ig6WUZhHKvpmH0w-lhZ2lTcKJzQLilEcXJNgIO-buNY">
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
