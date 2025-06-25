@@ -6,25 +6,25 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url><loc>https://www.vorteasy.com.br/#/sobre</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/privacidade</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/calc-13</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/gerador-cpf</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/calc-ferias</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/json-para-java</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/preco-venda</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/simulador-financiamento</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/juros-compostos</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/json-xml</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/validador-formatador</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/base64-converter</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/hash-generator</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/regex-tester</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/gerador-senhas</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/cronometro</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/calculadora-imc</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/conversor-unidades</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/contador-palavras</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/lorem-ipsum</loc></url>
-  <url><loc>https://www.vorteasy.com.br/#/remover-acentos</loc></url>
+  <url><loc>https://www.vorteasy.com.br/sobre</loc></url>
+  <url><loc>https://www.vorteasy.com.br/privacidade</loc></url>
+  <url><loc>https://www.vorteasy.com.br/calc-13</loc></url>
+  <url><loc>https://www.vorteasy.com.br/gerador-cpf</loc></url>
+  <url><loc>https://www.vorteasy.com.br/calc-ferias</loc></url>
+  <url><loc>https://www.vorteasy.com.br/json-para-java</loc></url>
+  <url><loc>https://www.vorteasy.com.br/preco-venda</loc></url>
+  <url><loc>https://www.vorteasy.com.br/simulador-financiamento</loc></url>
+  <url><loc>https://www.vorteasy.com.br/juros-compostos</loc></url>
+  <url><loc>https://www.vorteasy.com.br/json-xml</loc></url>
+  <url><loc>https://www.vorteasy.com.br/validador-formatador</loc></url>
+  <url><loc>https://www.vorteasy.com.br/base64-converter</loc></url>
+  <url><loc>https://www.vorteasy.com.br/hash-generator</loc></url>
+  <url><loc>https://www.vorteasy.com.br/regex-tester</loc></url>
+  <url><loc>https://www.vorteasy.com.br/gerador-senhas</loc></url>
+  <url><loc>https://www.vorteasy.com.br/cronometro</loc></url>
+  <url><loc>https://www.vorteasy.com.br/calculadora-imc</loc></url>
+  <url><loc>https://www.vorteasy.com.br/conversor-unidades</loc></url>
+  <url><loc>https://www.vorteasy.com.br/contador-palavras</loc></url>
+  <url><loc>https://www.vorteasy.com.br/lorem-ipsum</loc></url>
+  <url><loc>https://www.vorteasy.com.br/remover-acentos</loc></url>
 </urlset>
