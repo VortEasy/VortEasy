@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Páginas principais -->
-  <url><loc>https://www.vorteasy.com.br/</loc></url>
-  <url><loc>https://www.vorteasy.com.br/sobre</loc></url>
-  <url><loc>https://www.vorteasy.com.br/contato</loc></url>
-  <url><loc>https://www.vorteasy.com.br/privacidade</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/sobre</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/contato</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/privacidade</loc></url>
 
   <!-- Calculadoras -->
-  <url><loc>https://www.vorteasy.com.br/calculadoras/decimo-terceiro</loc></url>
-  <url><loc>https://www.vorteasy.com.br/calculadoras/ferias</loc></url>
-  <url><loc>https://www.vorteasy.com.br/calculadoras/preco-de-venda</loc></url>
-  <url><loc>https://www.vorteasy.com.br/calculadoras/simulador-financiamento</loc></url>
-  <url><loc>https://www.vorteasy.com.br/calculadoras/juros-compostos</loc></url>
-  <url><loc>https://www.vorteasy.com.br/calculadoras/imc</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/decimo-terceiro</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/ferias</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/preco-de-venda</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/simulador-financiamento</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/juros-compostos</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/calculadoras/imc</loc></url>
 
   <!-- Desenvolvedor -->
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/gerador-cpf-valido</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/json-para-java</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/conversor-json-xml</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/validador-formatador</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/conversor-base64</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/gerador-hash</loc></url>
-  <url><loc>https://www.vorteasy.com.br/desenvolvedor/testador-regex</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/gerador-cpf-valido</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/json-para-java</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/conversor-json-xml</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/validador-formatador</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/conversor-base64</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/gerador-hash</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/desenvolvedor/testador-regex</loc></url>
 
   <!-- Utilitários -->
-  <url><loc>https://www.vorteasy.com.br/utilitarios/gerador-de-senha-forte</loc></url>
-  <url><loc>https://www.vorteasy.com.br/utilitarios/cronometro-online</loc></url>
-  <url><loc>https://www.vorteasy.com.br/utilitarios/conversor-de-unidades</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/utilitarios/gerador-de-senha-forte</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/utilitarios/cronometro-online</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/utilitarios/conversor-de-unidades</loc></url>
 
   <!-- Texto -->
-  <url><loc>https://www.vorteasy.com.br/texto/contador-de-palavras-e-caracteres</loc></url>
-  <url><loc>https://www.vorteasy.com.br/texto/gerador-lorem-ipsum</loc></url>
-  <url><loc>https://www.vorteasy.com.br/texto/remover-acentos</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/texto/contador-de-palavras-e-caracteres</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/texto/gerador-lorem-ipsum</loc></url>
+  <url><loc>https://www.vorteasy.com.br/#/texto/remover-acentos</loc></url>
 </urlset>
