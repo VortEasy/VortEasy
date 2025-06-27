@@ -1,78 +1,26 @@
 <!doctype html>
-<html lang="pt-BR" data-beasties-container>
-<head>
-  <meta charset="utf-8">
-  <title>Vorteasy | Ferramentas Online Grátis e Utilitários para o Dia a Dia</title>
-  <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Encontre calculadoras, geradores e conversores online e grátis. Calcule seu 13º, gere senhas, valide JSON e simplifique tarefas diárias com as ferramentas Vorteasy.">
-  <meta name="keywords" content="ferramentas online, calculadora online, gerador de cpf, gerador de senha, juros compostos, conversor json, validador json, calculadora de preço de venda, vorteasy">
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Vorteasy",
-    "url": "https://www.vorteasy.com.br/",
-    "description": "Portal com ferramentas online e gratuitas para simplificar tarefas diárias, incluindo calculadoras financeiras, utilitários para desenvolvedores e muito mais."
-  }
-  </script>
-
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <style>
-    /* seus estilos de font-face aqui, mantive igual ao original */
-    @font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}
-    /* (demais fontes mantidas iguais, por questão de espaço, mas no seu arquivo copie tudo) */
-  </style>
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-  
-  <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
-  <link rel="manifest" href="assets/icons/site.webmanifest">
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X38FMB17F4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-X38FMB17F4');
-  </script>
-
-  <!-- Script para corrigir roteamento SPA no GitHub Pages -->
-  <script>
-    // Se não estiver na raiz e não tiver app-root (página 404 do GitHub Pages), guarda a URL e redireciona para a raiz
-    if (window.location.pathname !== '/' && !document.querySelector('app-root')) {
-      sessionStorage.setItem('redirectPath', window.location.pathname);
-      window.location.replace('/');
-    }
-  </script>
-  
-</head>
-<body>
-  <script>
-    // Na home, se tiver redirectPath guardado, restaura a URL na barra sem recarregar a página
-    const redirectPath = sessionStorage.getItem('redirectPath');
-    if (redirectPath) {
-      sessionStorage.removeItem('redirectPath');
-      history.replaceState(null, '', redirectPath);
-    }
-  </script>
-
-  <app-root></app-root>
-
-  <link rel="modulepreload" href="chunk-BMF6CRUF.js">
-  <link rel="modulepreload" href="chunk-HPHTIQQF.js">
-  <link rel="modulepreload" href="chunk-QIK22N2V.js">
-  <link rel="modulepreload" href="chunk-ECYMJN6A.js">
-  <link rel="modulepreload" href="chunk-4IDNTCH7.js">
-
-  <script src="polyfills-B6TNHZQ6.js" type="module"></script>
-  <script src="main-ZOOJTCYN.js" type="module"></script>
-</body>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecionando... | Vorteasy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url=/" />
+    <script>
+      // Salva a rota original
+      const path = window.location.pathname + window.location.search + window.location.hash;
+      sessionStorage.setItem("redirectPath", path);
+      window.location.replace("/");
+    </script>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 2rem;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Redirecionando para Vorteasy...</h1>
+    <p>Se não for redirecionado automaticamente, <a href="/">clique aqui</a>.</p>
+  </body>
 </html>
