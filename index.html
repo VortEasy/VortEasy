@@ -1,6 +1,12 @@
 <!doctype html>
 <html lang="pt-BR" data-beasties-container>  
-<head>  
+<head>
+  <script>
+    const redirect = new URLSearchParams(window.location.search).get('redirect');
+    if (redirect) {
+      history.replaceState(null, '', redirect);
+    }
+  </script>
   <meta charset="utf-8">  
   <title>Vorteasy | Ferramentas Online Grátis e Utilitários para o Dia a Dia</title>  
   <base href="/">  
